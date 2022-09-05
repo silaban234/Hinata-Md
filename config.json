@@ -1,8 +1,8 @@
 {
-    "ownerNumber": "689509158681@s.whatsapp.net",
-    "ownerName": "Riy 04",
+    "ownerNumber": ["689509158681@s.whatsapp.net"],
+    "ownerName": ["JON 04"],
     "botName": "Hinata-Md",
-    "footer": "Xcode Team",
+    "footer": "SIPUCE Team",
     "sessionName": "session",
     "pathimg": "./media/hinata.jpg",
     "lolkey": "Beli Sendiri",
